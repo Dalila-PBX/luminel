@@ -1,0 +1,1 @@
+import{f as e,o as t,t as n}from"./index-CL7rBfRT.js";var r={};function i(n,r){return e(),t(`h1`)}var a=n(r,[[`render`,i]]);export{a as default};
